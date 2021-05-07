@@ -1,0 +1,15 @@
+{
+    "pacientes": [
+        
+            {"id": 1, "nombres": "pepito peres", "edad" :20},
+            {"id": 2, "nombres": "ana peres", "edad" :38},
+            {"id": 3, "nombres": "sandra peres", "edad" :68},
+            {"id": 4, "nombres": "luisa peres", "edad" :10}
+        
+    ],
+    "diagnosticos": [
+        {"id": 1, "imc": "menor de 18.5", "situacion ": "Bajo peso"},
+        {"id": 2, "imc": "18.5 - 24.9", "situacion ": "peso adecuado"}
+    ]
+
+}
