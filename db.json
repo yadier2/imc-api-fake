@@ -1,15 +1,170 @@
 {
-    "pacientes": [
-        
-            {"id": 1, "nombres": "pepito peres", "edad" :20},
-            {"id": 2, "nombres": "ana peres", "edad" :38},
-            {"id": 3, "nombres": "sandra peres", "edad" :68},
-            {"id": 4, "nombres": "luisa peres", "edad" :10}
-        
-    ],
-    "diagnosticos": [
-        {"id": 1, "imc": "menor de 18.5", "situacion ": "Bajo peso"},
-        {"id": 2, "imc": "18.5 - 24.9", "situacion ": "peso adecuado"}
-    ]
+   "inventario":[
+       {
+           "idArticulo":1,
+           "categoria":"Guajolota",
+           "tipo":"Verde",
+           "nombre":"Guajolota de Tamal Verde",
+           "precio":25,
+           "disponible":500,
+           "foto":"https://i.ibb.co/NZkgkdk/guajo-verde.png"
+       },
+       {
+           "idArticulo":2,
+           "categoria":"Guajolota",
+           "tipo":"Mole",
+           "nombre":"Guajolota de Tamal de mole",
+           "precio":25,
+           "disponible":50,
+           "foto":"https://i.ibb.co/sFCmfMQ/Guajo-mole.png"
+       },
+       {
+           "idArticulo":3,
+           "categoria":"Guajolota",
+           "tipo":"Guayaba",
+           "nombre":"Guajolota de Tamal de Guayaba",
+           "precio":25,
+           "disponible":50,
+           "foto":"https://i.ibb.co/QkzBb9Z/Guajolota-Guayaba.png"
+       },
+       {
+           "idArticulo":3,
+           "categoria":"Guajolota",
+           "tipo":"Piña",
+           "nombre":"Guajolota de Tamal de Piña",
+           "precio":25,
+           "disponible":500,
+           "foto":"https://i.ibb.co/5jzVKwc/guajo-pina.png"
+       },
+       {
+           "idArticulo":4,
+           "categoria":"Guajolota",
+           "tipo":"Pasas",
+           "nombre":"Guajolota de Tamal de pasas",
+           "precio":25,
+           "disponible":500,
+           "foto":"https://i.ibb.co/LQDT73Q/Guajo-pasas.png"
+       },
 
+
+
+       {
+           "idArticulo":2,
+           "categoria":"Bebida",
+           "tipo":"Champurrado",
+           "precio":12,
+           "disponible":100,
+           "foto":"https://i.ibb.co/M13fXH5/Champurrado.jpg"
+       },
+       {
+           "idArticulo":2,
+           "categoria":"Bebida",
+           "tipo":"Atole de Arroz",
+           "precio":12,
+           "disponible":100,
+           "foto":"https://i.ibb.co/j5nnMNB/Atole-arroz.jpg"
+       },
+       {
+           "idArticulo":2,
+           "categoria":"Bebida",
+           "tipo":"Chocolate Caliente",
+           "precio":12,
+           "disponible":100,
+           "foto":"https://i.ibb.co/m0BNBBH/Chocolate-caliente.jpg"
+       },
+       {
+           "idArticulo":2,
+           "categoria":"Bebida",
+           "tipo":"Café Negro",
+           "precio":12,
+           "disponible":100,
+           "foto":"https://i.ibb.co/jHWRMN0/cafe-negro.jpg"
+       },
+
+
+
+       {
+           "idArticulo":3,
+           "categoria":"Tamal",
+           "tipo":"Tamal Verde",
+           "precio":14,
+           "disponible":50,
+           "foto":"https://i.ibb.co/x5sJWM4/tamal-verde.png"
+       },
+       {
+           "idArticulo":3,
+           "categoria":"Tamal",
+           "tipo":"Tamal de Mole",
+           "precio":14,
+           "disponible":50,
+           "foto":"https://i.ibb.co/ZVM2MTH/tamal-mole.png"
+       },
+       {
+           "idArticulo":3,
+           "categoria":"Tamal",
+           "tipo":"Tamal de Guayaba",
+           "precio":14,
+           "disponible":50,
+           "foto":"https://i.ibb.co/ZzmjKmk/Tamal-de-Guayaba.png"
+       },
+       {
+           "idArticulo":3,
+           "categoria":"Tamal",
+           "tipo":"Tamal de Piña",
+           "precio":14,
+           "disponible":50,
+           "foto":"https://i.ibb.co/0ncVJ80/tamal-pina.png"
+       },
+       {
+           "idArticulo":3,
+           "categoria":"Tamal",
+           "tipo":"Tamal de Pasas",
+           "precio":14,
+           "disponible":50,
+           "foto":"https://i.ibb.co/NSh0LCf/tamal-pasas.png"
+       }
+   ],
+   "usuarios":[
+       {
+           "idUsuario":1,
+           "nombre":"Felipe",
+           "apellido":"Perez",
+           "saldo":100,
+           "contraseña":"A12345",
+           "correo":"felipe@gmail.com"
+       },
+       {
+        "idUsuario":2,
+        "nombre":"Faber",
+        "apellido":"Florez",
+        "saldo":150,
+        "contraseña":"B12345",
+        "correo":"faber@gmail.com"
+    },
+    {
+        "idUsuario":3,
+        "nombre":"Paola",
+        "apellido":"Hernandez",
+        "saldo":180,
+        "contraseña":"C12345",
+        "correo":"paola@gmail.com"
+    }
+   ],
+   "carrito":[
+       {
+        "idCompra":1,        
+        "idUsuario":3,
+        "pagado":false,
+        "articulos":[
+            {
+                "idArticulo":1,
+                "cantidad":3
+            },
+            {
+                "idArticulo":4,
+                "cantidad":2
+            }
+        ]
+       }
+   ]
 }
