@@ -7,7 +7,8 @@
             "nombre":"Guajolota de Tamal Verde",
             "precio":25,
             "disponible":500,
-            "foto":"https://i.ibb.co/NZkgkdk/guajo-verde.png"
+            "foto":"https://i.ibb.co/NZkgkdk/guajo-verde.png",
+            "sabor":"https://i.ibb.co/5B9r4J2/verde.png"
         },
         {
             "idArticulo":2,
@@ -16,7 +17,8 @@
             "nombre":"Guajolota de Tamal de mole",
             "precio":25,
             "disponible":50,
-            "foto":"https://i.ibb.co/sFCmfMQ/Guajo-mole.png"
+            "foto":"https://i.ibb.co/sFCmfMQ/Guajo-mole.png",
+            "sabor":"https://i.ibb.co/jMvBTDZ/mole.png"
         },
         {
             "idArticulo":3,
@@ -25,7 +27,8 @@
             "nombre":"Guajolota de Tamal de Guayaba",
             "precio":25,
             "disponible":50,
-            "foto":"https://i.ibb.co/KKT03y8/Tamal-de-Guayaba.png"
+            "foto":"https://i.ibb.co/QkzBb9Z/Guajolota-Guayaba.png",
+            "sabor":"https://i.ibb.co/1JPPWMk/guayaba.png"
         },
         {
             "idArticulo":4,
@@ -34,7 +37,8 @@
             "nombre":"Guajolota de Tamal de Piña",
             "precio":25,
             "disponible":500,
-            "foto":"https://i.ibb.co/5jzVKwc/guajo-pina.png"
+            "foto":"https://i.ibb.co/5jzVKwc/guajo-pina.png",
+            "sabor":"https://i.ibb.co/sFzR5dg/pi-a.png"
         },
         {
             "idArticulo":5,
@@ -43,7 +47,8 @@
             "nombre":"Guajolota de Tamal de pasas",
             "precio":25,
             "disponible":500,
-            "foto":"https://i.ibb.co/dBP1qzx/tamal-pasas.png"
+            "foto":"https://i.ibb.co/LQDT73Q/Guajo-pasas.png",
+            "sabor":"https://i.ibb.co/VvJ7qxy/pasas.png"
         },
  
         {
@@ -52,7 +57,8 @@
             "tipo":"Champurrado",
             "precio":12,
             "disponible":100,
-            "foto":"https://i.ibb.co/M13fXH5/Champurrado.jpg"
+            "foto":"https://i.ibb.co/mTgTMmC/champurrado.png",
+            "sabor":"https://i.ibb.co/vHFPY4y/champurrado.png"
         },
         {
             "idArticulo":7,
@@ -60,7 +66,8 @@
             "tipo":"Atole de Arroz",
             "precio":12,
             "disponible":100,
-            "foto":"https://i.ibb.co/j5nnMNB/Atole-arroz.jpg"
+            "foto":"https://i.ibb.co/Xpjh5vL/Atole-arroz.png",
+            "sabor":"https://i.ibb.co/gSzgQGq/arroz-con-leche.png"
         },
         {
             "idArticulo":8,
@@ -68,7 +75,8 @@
             "tipo":"Chocolate Caliente",
             "precio":12,
             "disponible":100,
-            "foto":"https://i.ibb.co/m0BNBBH/Chocolate-caliente.jpg"
+            "foto":"https://i.ibb.co/2Nw47kP/Chocolate-caliente.png",
+            "sabor":"https://i.ibb.co/whT4v0f/chocolate.png"
         },
         {
             "idArticulo":9,
@@ -76,7 +84,8 @@
             "tipo":"Café Negro",
             "precio":12,
             "disponible":100,
-            "foto":"https://i.ibb.co/jHWRMN0/cafe-negro.jpg"
+            "foto":"https://i.ibb.co/QjhZ6T7/cafe-negro.png",
+            "sabor":"https://i.ibb.co/SrK4RXj/cafe.png"
         },
  
  
@@ -87,7 +96,8 @@
             "tipo":"Tamal Verde",
             "precio":14,
             "disponible":50,
-            "foto":"https://i.ibb.co/x5sJWM4/tamal-verde.png"
+            "foto":"https://i.ibb.co/x5sJWM4/tamal-verde.png",
+            "sabor":"https://i.ibb.co/5B9r4J2/verde.png"
         },
         {
             "idArticulo":11,
@@ -95,7 +105,8 @@
             "tipo":"Tamal de Mole",
             "precio":14,
             "disponible":50,
-            "foto":"https://i.ibb.co/ZVM2MTH/tamal-mole.png"
+            "foto":"https://i.ibb.co/ZVM2MTH/tamal-mole.png",
+            "sabor":"https://i.ibb.co/jMvBTDZ/mole.png"
         },
         {
             "idArticulo":12,
@@ -103,7 +114,8 @@
             "tipo":"Tamal de Guayaba",
             "precio":14,
             "disponible":50,
-            "foto":"https://i.ibb.co/ZzmjKmk/Tamal-de-Guayaba.png"
+            "foto":"https://i.ibb.co/KKT03y8/Tamal-de-Guayaba.png",
+            "sabor":"https://i.ibb.co/1JPPWMk/guayaba.png"
         },
         {
             "idArticulo":13,
@@ -111,7 +123,8 @@
             "tipo":"Tamal de Piña",
             "precio":14,
             "disponible":50,
-            "foto":"https://i.ibb.co/0ncVJ80/tamal-pina.png"
+            "foto":"https://i.ibb.co/0ncVJ80/tamal-pina.png",
+            "sabor":"https://i.ibb.co/sFzR5dg/pi-a.png"
         },
         {
             "idArticulo":14,
@@ -119,7 +132,8 @@
             "tipo":"Tamal de Pasas",
             "precio":14,
             "disponible":50,
-            "foto":"https://i.ibb.co/NSh0LCf/tamal-pasas.png"
+            "foto":"https://i.ibb.co/dBP1qzx/tamal-pasas.png",
+            "sabor":"https://i.ibb.co/VvJ7qxy/pasas.png"
         }
     ],
  
