@@ -139,7 +139,7 @@
  
     "usuarios":[
         {
-            "idUsuario":1,
+            "id":1,
             "nombre":"Felipe",
             "apellido":"Perez",
             "saldo":100,
@@ -147,7 +147,7 @@
             "correo":"felipe@gmail.com"
         },
         {
-         "idUsuario":2,
+         "id":2,
          "nombre":"Faber",
          "apellido":"Florez",
          "saldo":150,
@@ -155,7 +155,7 @@
          "correo":"faber@gmail.com"
      },
      {
-         "idUsuario":3,
+         "id":3,
          "nombre":"Paola",
          "apellido":"Hernandez",
          "saldo":180,
